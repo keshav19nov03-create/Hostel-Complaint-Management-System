@@ -1,0 +1,6 @@
+target/
+nbproject/private/
+*.db
+.idea/
+*.iml
+.DS_Store
